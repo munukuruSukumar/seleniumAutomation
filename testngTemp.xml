@@ -5,6 +5,7 @@
     <classes>
 
       <class name="com.sample.calcTest.SubstractionFlow"/>
+      <class name="com.sample.calcTest.SubstractionFlow"/>
 
     </classes>
   </test> <!-- Test -->
