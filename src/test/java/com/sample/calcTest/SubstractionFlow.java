@@ -14,6 +14,7 @@ public class SubstractionFlow {
 		int input1 = 100;
 		int input2 = 200;
 		int expResult = 100;
+
 		
 		int actResult = Calculator.substraction(input2, input1);
 		
