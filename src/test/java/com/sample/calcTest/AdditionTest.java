@@ -19,6 +19,7 @@ public class AdditionTest {
 		
 		Assert.assertEquals(actResult, expResult);
 		System.out.println("test executed successfully");
+		System.out.println("test executed successfully2");
 		
 	}
 	
